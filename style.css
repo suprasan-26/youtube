@@ -1232,10 +1232,11 @@ body{
     .search{
         position: relative;
         right:90px;
+        top: 5px;
     }
     .user{
         position:absolute;
-        left:230px;
+        left:250px;
         bottom: 47px;
     }
 
