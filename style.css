@@ -11,9 +11,9 @@ body{
 
                                           /* navbar starts here */
 .header{
-    position: fixed;
+    
     top: 0px;
-    width: 50vw;
+    width:100%;
     z-index: 20;
     margin:0px;
     padding:0px;
