@@ -1186,6 +1186,9 @@ body{
         width: 100%;
     }
 
+    .video-1{
+        width: 45%;
+    }
 }
 
 @media (max-width:450px){
