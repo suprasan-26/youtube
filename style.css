@@ -12,6 +12,7 @@ body{
                                           /* navbar starts here */
 .header{
     position: fixed;
+    width:100%;
     top: 0px;
     z-index: 20;
 }
@@ -176,6 +177,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
+    margin-top:7%;
 }
 
 .left-side{
