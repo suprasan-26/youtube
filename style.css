@@ -11,7 +11,7 @@ body{
 
                                           /* navbar starts here */
 .header{
-    position: sticky;
+    position: fixed;
     top: 0px;
     z-index: 20;
 }
